@@ -8,4 +8,4 @@ The purpose of the exercise is to learn command line tool git, learn how to cont
 
 ## Requirements
 
-- [ ] Add files to the master branch
+- [x] Add files to the master branch
