@@ -1,11 +1,7 @@
-# GitHub Exercises
+# Diffuse the Bomb
 
-## Overview
+## Location: Salinas, CA
 
-The purpose of the exercise is to learn command line tool git, learn how to control changes & manage branches.
+A bomb has been planted.
 
-
-
-## Requirements
-
-- [x] Add files to the master branch
+Detonation: True
