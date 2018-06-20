@@ -1,0 +1,85 @@
+File Manifest for ICPSR 36975
+
+Fischer, Claude S. Understanding How Personal Networks Change: Wave 1.
+ICPSR36975-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2018-01-31.
+http://doi.org/10.3886/ICPSR36975.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36975-descriptioncitation.pdf       -       -         -       2018-02-06  -
+
+    36975-manifest.txt                  -       -         -       daily       -
+
+    36975-Codebook.pdf                  -       -         -       2018-01-31  f50a5d6b07d44fc547e06ef62e648a6d
+
+    36975-Documentation.pdf             -       -         -       2018-01-31  45121861333b5d69f97937f8a27bdbba
+
+    36975-Frequencies.pdf               -       -         -       2018-01-31  aaa821447de1c9d885b1c59fe30a14cc
+
+    36975-Questionnaire.pdf             -       -         -       2018-01-31  40b50e6f166668901b52c49e3d31ceed
+
+
+DS0001 UCNets Social Networks Study Main File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36975-0001-Data.dta                 -       1,159     574     2018-01-31  54e17dc1af7101bdd13d60f205586d8c
+
+    36975-0001-Data.rda                 -       1,159     574     2018-01-31  ce10bba3b1787ab93ad863c66308a47d
+
+    36975-0001-Data.sav                 -       1,159     574     2018-01-31  9308588bef4b23039923a96f6860a2ee
+
+    36975-0001-Data.stc                 -       1,159     574     2018-01-31  17a428bd1c4515703eae3e8092bd1c0c
+
+    36975-0001-Data.tsv                 -       1,159     574     2018-01-31  bd78af1867827b055dccdc0eccf5602f
+
+    36975-0001-Data.txt                 7410    1,159     574     2018-01-31  9c31daa21a8142108c44478f4bd9d5f2
+
+    36975-0001-Setup.dct                -       -         -       2018-01-31  4797c572502121b39bcc13e9a502ff51
+
+    36975-0001-Setup.do                 -       -         -       2018-01-31  7f4f86b1fe819e14b52d6fb39172930d
+
+    36975-0001-Setup.sas                -       -         -       2018-01-31  1bbf7f075d949a1fac9fa08b6a366c0a
+
+    36975-0001-Setup.sps                -       -         -       2018-01-31  4d1879617a851040b5f99622d4a31e47
+
+    36975-0001-Supplemental_syntax.do   -       -         -       2018-01-31  510a69ab6537bbf1343cab4ab8087f6d
+
+    36975-0001-Supplemental_syntax.sas  -       -         -       2018-01-31  b242d81a5fb2bf3b4f893721ad889666
+
+
+DS0002 UCNets Social Networks Study Names File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36975-0002-Data.dta                 -       12,323    80      2018-01-31  aee660203bf6c1894b35b8ac89877941
+
+    36975-0002-Data.rda                 -       12,323    80      2018-01-31  9b8eb7713956b1e2afd498ec806e98b3
+
+    36975-0002-Data.sav                 -       12,323    80      2018-01-31  6cbeddde75bb9c28ef8c908a4f2fee98
+
+    36975-0002-Data.stc                 -       12,323    80      2018-01-31  9680c1d99cc85695152f566f422fcfac
+
+    36975-0002-Data.tsv                 -       12,323    80      2018-01-31  fcc637dd7bc57a0f65ba387e7dec230c
+
+    36975-0002-Data.txt                 182     12,323    80      2018-01-31  253a321ded4c799500b9a5b7af01815e
+
+    36975-0002-Setup.dct                -       -         -       2018-01-31  193ec03b9e33fbc417af25f87bc61318
+
+    36975-0002-Setup.do                 -       -         -       2018-01-31  38d1b4e11645eafb4141ba3f60ba33f4
+
+    36975-0002-Setup.sas                -       -         -       2018-01-31  82a655a40b39150b5d0c9ebc305657ea
+
+    36975-0002-Setup.sps                -       -         -       2018-01-31  d3b772f2cd012697fdf46eaf70ffdcd8
+
+    36975-0002-Supplemental_syntax.do   -       -         -       2018-01-31  baaa75e12267cdd6db3f97e52798654d
+
+    36975-0002-Supplemental_syntax.sas  -       -         -       2018-01-31  ef22731f53e19228aaffa36b284ac5d5
+
